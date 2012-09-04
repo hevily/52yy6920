@@ -1,0 +1,44 @@
+﻿<!--
+<!--
+CMP4配置文件
+-->
+<cmp 
+	name = "尐怪专用" 
+	link = "http://user.qzone.qq.com/27708860/main" 
+	description = "%3Cfont color='%2333ff00'>最新电影,尽在QQ:935705355"
+	logo = "{src:logo1.png,xywh:[10R,0,0,0]}"
+	logo_alpha = "0.9"
+        
+        video_image="https://xiaoguai.googlecode.com/svn/trunk/back.jpg"
+	skins = "https://xiaoguai.googlecode.com/svn/trunk/xiaoguai.swf"
+	plugins="https://xiaoguai.googlecode.com/svn/trunk/yy3590/youku.swf,https://xiaoguai.googlecode.com/svn/trunk/yy3590/proxy.swf,https://xiaoguai.googlecode.com/svn/trunk/yy3590/announce.swf,https://xiaoguai.googlecode.com/svn/trunk/yy3590/skin.swf,https://xiaoguai.googlecode.com/svn/trunk/yy3590/ads.swf,https://xiaoguai.googlecode.com/svn/trunk/tudou.swf,https://xiaoguai.googlecode.com/svn/trunk/qiyi.swf"
+
+        chat_xywh = "20,20,32,32"
+
+        chat_alone = "1"
+
+        chat_roomname = "尐怪"
+
+        backgrounds = ""
+	bgcolor = ""
+	lists = ""
+
+          
+      announce_content="&lt;b&gt;&lt;font size=&quot;16px&quot;&gt;&lt;font color=&quot;#AA9234&quot;&gt;① 招收： MM接待 影视传媒 皇冠娱乐歌手 有愿意的加尐怪唯一qq：935705355 &lt;/font&gt; &lt;font color=&quot;#ADB8B8&quot;&gt;② 50Q币制作电影（播放器）,50Q币元! &lt;/font&gt; &lt;font color=&quot;#AA9234&quot;&gt;③ 尐怪：专业代挂YY短位频道,代挂频道积分,有意者加Q935705355 &lt;/font&gt; &lt;font color=&quot;#ADB8B8&quot;&gt;④ 代做盗号软件，教你轻松盗取别人账号 别错过哦! &gt; &lt;font color=&quot;#AA9234&quot;&gt;⑤温馨提醒：如果你看到电影没有，请上调客服部，我们会以最快的速度更新 &lt;/font&gt; &lt;font color=&quot;#ADB8B8&quot;&gt;⑥黄金广告位招租，帮你推广你的产品&lt;/font&gt; &lt;font color=&quot;#AA9234&quot;&gt;⑦作者联系方式QQ：935705355&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" 
+	announce_xywh = "0,0,100P,20"
+	announce_speed = "2"
+        src_handler = "" 
+	lrc_handler = ""
+
+	skin_id = "1"
+
+	play_id = "1"
+        click_play = "1"
+	auto_play = "1"
+	list_delete = "0" 
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+/>
