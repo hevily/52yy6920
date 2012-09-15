@@ -1,0 +1,20 @@
+<list>
+<m src="http://f0.r.56.com/f0.c93.56.com/flvdownload/0/0/134763777619hd.flv?start={start_bytes}" stream="true" label="YY6920 - 新白发魔女传 01" />
+<m src="http://f6.r.56.com/f6.c68.56.com/flvdownload/15/17/sc_134763993582hd.flv?start={start_bytes}" stream="true" label="YY6920 - 新白发魔女传 02" />
+
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=43" label="[推荐]普清双线"/>
+<m label="[打开]电信专线">
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7" label="[高清]南方电信-新白发魔女传直播地址1"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7&s=2" label="[高清]北方电信-新白发魔女传直播地址2"/>
+<m src="hunan" rtmp="rtmp://live122.cnlive.com:1935/live/" label="[普清]北京电信2-新白发魔女传直播地址3"/>
+<m src="tv10" rtmp="rtmp://202.102.79.114:554/live/" label="[低清]江苏电信-新白发魔女传直播地址4"/>
+
+
+
+</m>
+<m label="联通专线">
+<m type="2" src="http://116.213.146.71:554/45" label="[超清]北京联通"/>
+<m type="2" src="http://122.192.35.96:554/136" label="[超清]江苏联通"/>
+<m src="tv10" rtmp="rtmp://122.192.35.80:554/live/" label="[低清]江苏联通"/>
+</m>
+</list>
