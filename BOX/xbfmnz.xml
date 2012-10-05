@@ -1,0 +1,76 @@
+<list>
+<m opened="0" label="电信直播 - 新白发魔女传-今晚22点直播">
+
+
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=43" label="[推荐]普清双线"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7" label="[高清]南方电信-新白发魔女传直播地址1"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7&s=2" label="[高清]北方电信-新白发魔女传直播地址2"/>
+<m src="hunan" rtmp="rtmp://live122.cnlive.com:1935/live/" label="[普清]北京电信2-新白发魔女传直播地址3"/>
+<m src="tv10" rtmp="rtmp://202.102.79.114:554/live/" label="[低清]江苏电信-新白发魔女传直播地址4"/>
+<m type="youku" streamtype="flv" src="XNDUwMzMwODI4" label="YY6920 - 新白发魔女传 01"/>
+<m type="youku" streamtype="flv" src="XNDUwMzQxMTQ4" label="YY6920 - 新白发魔女传 02"/>
+<m type="youku" streamtype="flv" src="XNDUwMzc0NjM2" label="YY6920 - 新白发魔女传 03"/>
+<m type="youku" streamtype="flv" src="XNDUwNDQzMjMy" label="YY6920 - 新白发魔女传 04"/>
+<m type="youku" streamtype="flv" src="XNDUwNjc3NDU2" label="YY6920 - 新白发魔女传 05"/>
+<m type="youku" streamtype="flv" src="XNDUwNjc4MzA4" label="YY6920 - 新白发魔女传 06"/>
+<m type="youku" streamtype="flv" src="XNDUzMDc2MjQw" label="YY6920 - 新白发魔女传 07"/>
+<m type="youku" streamtype="flv" src="XNDUzMDc3OTEy" label="YY6920 - 新白发魔女传 08"/>
+<m type="youku" streamtype="flv" src="XNDUzNDU5NDMy" label="YY6920 - 新白发魔女传 09"/>
+<m type="youku" streamtype="flv" src="XNDUzNTgwMDU2" label="YY6920 - 新白发魔女传 10"/>
+<m type="youku" streamtype="flv" src="XNDUzOTQwNTU2" label="YY6920 - 新白发魔女传 11"/>
+<m type="youku" streamtype="flv" src="XNDUzOTQ1NTA4" label="YY6920 - 新白发魔女传 12"/>
+<m type="youku" streamtype="flv" src="XNDU1NjI0ODcy" label="YY6920 - 新白发魔女传 13"/>
+<m type="youku" streamtype="flv" src="XNDU1NjI2OTQ0" label="YY6920 - 新白发魔女传 14"/>
+<m type="youku" streamtype="flv" src="XNDU1NzY2Njk2" label="YY6920 - 新白发魔女传 15"/>
+<m type="youku" streamtype="flv" src="XNDU1NzY4MTg0" label="YY6920 - 新白发魔女传 16"/>
+<m type="youku" streamtype="flv" src="XNDU2MjE3MzI4" label="YY6920 - 新白发魔女传 17"/>
+<m src="http://f7.r.56.com/f7.c93.56.com/flvdownload/17/21/sc_134903376194hd.flv?start={start_bytes}" lrc="" stream="true" label="YY6920 - 新白发魔女传18" />
+
+
+<m src="点直播?start={start_bytes}" stream="true" label="周5周6周7每晚22点直播2集(下集暂缺)" />
+
+</m>
+
+
+<m label="联通直播 - 新白发魔女传-今晚22点直播">
+<m type="2" src="http://116.213.146.71:554/45" label="[超清]北京联通"/>
+<m type="2" src="http://122.192.35.96:554/136" label="[超清]江苏联通"/>
+<m src="tv10" rtmp="rtmp://122.192.35.80:554/live/" label="[低清]江苏联通"/>
+</m>
+
+
+
+<m opened="1" label="新白发魔女传-星期5星期6星期7晚上直播">
+<m type="youku" streamtype="flv" src="XNDUwMzMwODI4" label="YY6920 - 新白发魔女传 01"/>
+<m type="youku" streamtype="flv" src="XNDUwMzQxMTQ4" label="YY6920 - 新白发魔女传 02"/>
+<m type="youku" streamtype="flv" src="XNDUwMzc0NjM2" label="YY6920 - 新白发魔女传 03"/>
+<m type="youku" streamtype="flv" src="XNDUwNDQzMjMy" label="YY6920 - 新白发魔女传 04"/>
+<m type="youku" streamtype="flv" src="XNDUwNjc3NDU2" label="YY6920 - 新白发魔女传 05"/>
+<m type="youku" streamtype="flv" src="XNDUwNjc4MzA4" label="YY6920 - 新白发魔女传 06"/>
+<m type="youku" streamtype="flv" src="XNDUzMDc2MjQw" label="YY6920 - 新白发魔女传 07"/>
+<m type="youku" streamtype="flv" src="XNDUzMDc3OTEy" label="YY6920 - 新白发魔女传 08"/>
+<m type="youku" streamtype="flv" src="XNDUzNDU5NDMy" label="YY6920 - 新白发魔女传 09"/>
+<m type="youku" streamtype="flv" src="XNDUzNTgwMDU2" label="YY6920 - 新白发魔女传 10"/>
+<m type="youku" streamtype="flv" src="XNDUzOTQwNTU2" label="YY6920 - 新白发魔女传 11"/>
+<m type="youku" streamtype="flv" src="XNDUzOTQ1NTA4" label="YY6920 - 新白发魔女传 12"/>
+<m type="youku" streamtype="flv" src="XNDU1NjI0ODcy" label="YY6920 - 新白发魔女传 13"/>
+<m type="youku" streamtype="flv" src="XNDU1NjI2OTQ0" label="YY6920 - 新白发魔女传 14"/>
+<m type="youku" streamtype="flv" src="XNDU1NzY2Njk2" label="YY6920 - 新白发魔女传 15"/>
+<m type="youku" streamtype="flv" src="XNDU1NzY4MTg0" label="YY6920 - 新白发魔女传 16"/>
+<m type="youku" streamtype="flv" src="XNDU2MjE3MzI4" label="YY6920 - 新白发魔女传 17"/>
+<m src="http://f7.r.56.com/f7.c93.56.com/flvdownload/17/21/sc_134903376194hd.flv?start={start_bytes}" lrc="" stream="true" label="YY6920 - 新白发魔女传18" />
+
+
+<m src="点直播?start={start_bytes}" stream="true" label="《星期五》晚上10点直播17-18集" />
+
+
+
+
+
+
+
+
+
+
+</m>
+</list>
